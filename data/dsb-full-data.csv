@@ -1,0 +1,302 @@
+character_name,xp,gold,guild,level,character_id,guild_id,class,user_id,first,last,email,cc_number,cc_expire,cc_security
+Arinthal,4759,6337,Blades of Valoria,14,3637b0973159e0f9,e9c3b0d506c11b1c,"ranger, bard",27f03e4c3c73b776,William,English,william.english@gmail.com,4332902193345137,01/26,188
+Darion,1778,52334,Shadowveil Assassins,6,9bb0a13051ff749a,52f6902bcca61a6a,druid,b0c42a8323d7bd33,Dawn,Jones,dawn.jones@gmail.com,3505787210639965,04/33,202
+Orinthor,4475,60097,Guardians of the Dawn,13,35f0ede436c0dc11,9ef1a491982cbf06,"paladin, cleric",b0c42a8323d7bd33,Dawn,Jones,dawn.jones@gmail.com,3505787210639965,04/33,202
+Zephira,1955,92548,Dragonheart Syndicate,6,9774f1bd1793c7c6,d96e0324970f052f,"rogue, rogue",b0c42a8323d7bd33,Dawn,Jones,dawn.jones@gmail.com,3505787210639965,04/33,202
+Kalthar,6117,33505,Stormriders,18,ee0f7ff461e2673c,8f988bdc8e02453c,"necromancer, ranger",f9dd9b9640387403,Crystal,Weaver,crystal.weaver@gmail.com,2532469005140959,08/29,106
+Valeria,120,72000,Moonshadow Brotherhood,1,e11b88be24209fee,7d5712da1c5571d4,"necromancer, druid",d691cbc37599dd32,Anthony,Swanson,anthony.swanson@gmail.com,4373525223480,06/34,841
+Valeria,120,72000,Moonshadow Brotherhood,1,e11b88be24209fee,7d5712da1c5571d4,"necromancer, druid",d691cbc37599dd32,Anthony,Swanson,anthony.swanson@gmail.com,4159876961996315,08/31,279
+Eldoris,644,34564,The Sunfire Legion,2,b133f533a0f5bad3,8c2887822ef0bba3,warrior,d691cbc37599dd32,Anthony,Swanson,anthony.swanson@gmail.com,4373525223480,06/34,841
+Eldoris,644,34564,The Sunfire Legion,2,b133f533a0f5bad3,8c2887822ef0bba3,warrior,d691cbc37599dd32,Anthony,Swanson,anthony.swanson@gmail.com,4159876961996315,08/31,279
+Kyndra,3548,81883,The Rune Keepers,11,c2dedb7759b29423,6aae14cdff83ccc4,"necromancer, druid",0647e0ef67cec829,Robert,Brown,robert.brown@gmail.com,180021393512635,09/34,5943
+Elyndor,6399,16407,The Ebon Circle,19,a5d080247d5dbe1f,4f31ff70b1901ac6,ranger,d3b371dd2d605d2a,Daniel,Carter,daniel.carter@gmail.com,36293049206518,01/27,339
+Elyndor,6399,16407,The Ebon Circle,19,a5d080247d5dbe1f,4f31ff70b1901ac6,ranger,d3b371dd2d605d2a,Daniel,Carter,daniel.carter@gmail.com,371130667431148,07/25,8851
+Thalaria,4120,29761,The Ashen Wolves,12,f660159ad226bc63,d77d8cb078217876,"warlock, cleric",8316ccf1ca555a50,Denise,Benitez,denise.benitez@gmail.com,2694548404178290,01/27,411
+Rylorin,8876,42405,The Silver Serpents,26,88a74bc1e86aa7d7,b16b3bc0a1387ee0,rogue,e90bd2c9f961c99e,Michael,Pearson,michael.pearson@gmail.com,2242380680684321,06/30,222
+Korin,500,41092,The Verdant Cloaks,2,565d9b4dbf77d0d0,864fbef6ede481aa,"necromancer, druid",b502027aebba6368,Kirk,Scott,kirk.scott@gmail.com,4685955726783748,03/26,381
+Thalrin,5396,61524,,16,f13da25a0a9a7dd5,,rogue,b502027aebba6368,Kirk,Scott,kirk.scott@gmail.com,4685955726783748,03/26,381
+Zaril,5829,89849,Emerald Enclave,17,f30ac674c4d62d7e,c9dbb8658c62030a,mage,22d290d85cc57d88,James,Campbell,james.campbell@gmail.com,4581651917263856876,03/29,566
+Zaril,5829,89849,Emerald Enclave,17,f30ac674c4d62d7e,c9dbb8658c62030a,mage,22d290d85cc57d88,James,Campbell,james.campbell@gmail.com,372170546177222,02/30,273
+Zyrion,7842,43045,The Gilded Hawks,23,36b0fe308656e18c,026359fd1703738d,"mage, mage",2a30768a75700385,Michelle,Cook,michelle.cook@gmail.com,582284211239,08/33,9538
+Rynal,3400,57332,The Silent Hand,10,1f2103fc7bc617a8,a6830251bca377af,"druid, ranger",2a30768a75700385,Michelle,Cook,michelle.cook@gmail.com,582284211239,08/33,9538
+Kaeloria,349,83842,The Night Watchers,1,04ab33b9b2c6b229,e65f653cf961bf99,necromancer,933b6e20d045306b,Tina,Pearson,tina.pearson@gmail.com,581055956253,10/28,211
+Sylara,6140,90625,Crimson Covenant,18,410cc4438ea42c65,95495c681c04c891,"rogue, bard",baf2333c7bc8667c,Amber,Jackson,amber.jackson@gmail.com,3584725537123549,09/30,903
+Zandor,8709,5175,The Rune Keepers,25,b6ba213be6b2d9ae,6aae14cdff83ccc4,necromancer,0d34cdc2cb1edc1e,Robert,Greene,robert.greene@gmail.com,4020030482275166,05/33,236
+Zalira,1717,29878,Dragonheart Syndicate,5,d25d380fb393cd8e,d96e0324970f052f,"druid, bard",b313886dd433c082,George,Woods,george.woods@gmail.com,372645964450698,01/25,677
+Zorath,9725,33366,The Ironclad,28,0017266cfc559a6f,8d0631fb5e7fe821,druid,635d2faffaec7e0e,Marc,Parsons,marc.parsons@gmail.com,4473580909916669794,10/29,084
+Zorath,9725,33366,The Ironclad,28,0017266cfc559a6f,8d0631fb5e7fe821,druid,635d2faffaec7e0e,Marc,Parsons,marc.parsons@gmail.com,4475824240345,05/26,176
+Ardella,8458,16705,Obsidian Order,25,c678e223350a06e6,e04cb009a4178bda,warlock,097d5e5b393d9901,Sean,Khan,sean.khan@gmail.com,30129946529089,01/27,031
+Soroth,4673,36842,Order of the Phoenix,14,d2df86019563e370,4103fe5dbe3b8825,"cleric, paladin",9c9d94a0bb62f42c,Jay,Malone,jay.malone@gmail.com,6011110231308777,05/27,590
+Orinthal,1513,37294,The Stormbound,5,8e39427e424e4d73,ac3939baa329f253,mage,8ffddc1665768c31,Ryan,Monroe,ryan.monroe@gmail.com,4685147406444045,05/28,273
+Korvin,2199,94213,,7,cb848370c6b82926,,rogue,ef051344dc1266c6,Jesse,Phillips,jesse.phillips@gmail.com,4893748853902589,06/31,891
+Korvin,2199,94213,,7,cb848370c6b82926,,rogue,ef051344dc1266c6,Jesse,Phillips,jesse.phillips@gmail.com,4789325588590521,06/30,874
+Nyssara,3075,53387,Shadowveil Assassins,9,3fc33a73157a7b41,52f6902bcca61a6a,"druid, necromancer",d7ef53d384b498bc,Robert,Walker,robert.walker@gmail.com,5353809241881263,03/29,508
+Althara,1651,28944,Stormriders,5,9e6d23da474124d3,8f988bdc8e02453c,"mage, necromancer",5dd93512d1b9fedc,Lance,Lucas,lance.lucas@gmail.com,501890613653,10/33,6672
+Rylan,7741,80420,The Bloodsworn,23,db3d365ae6312cd5,b6dec619300d9739,rogue,f69d2b6352f3acd0,George,Salazar,george.salazar@gmail.com,3515031090493187,12/27,870
+Valyndra,3395,29328,The Sunfire Legion,10,29b255bb260e74f0,8c2887822ef0bba3,bard,f69d2b6352f3acd0,George,Salazar,george.salazar@gmail.com,3515031090493187,12/27,870
+Thalindra,7451,96734,The Whispering Blades,22,1e1e2132affc2bd6,c8204d38a4b37e1b,"warlock, cleric",89d55a5d7ac2e5f7,William,Ramirez,william.ramirez@gmail.com,4471270344900957,10/28,426
+Thalir,6559,24721,,19,ceffbe38ff55708b,,"rogue, druid",8f72cc27d3d7cb25,Jane,Rice,jane.rice@gmail.com,370021331488419,07/25,165
+Thalindor,9375,87077,Stormriders,27,2d73258e3c3070c0,8f988bdc8e02453c,paladin,94622f6bdd6c2605,Patrick,Lewis,patrick.lewis@gmail.com,3561583842273658,08/31,038
+Lirael,5139,72227,Lunar Sentinels,15,81b7793fe8c717e7,16e39a8ea74f6441,ranger,63bf931eacf013dd,Vincent,Castro,vincent.castro@gmail.com,4265418174487436283,04/33,943
+Alindra,2329,49591,Shadowveil Assassins,7,d14bce7735fdf87c,52f6902bcca61a6a,"paladin, cleric",7e1772966ce09d83,William,Wilson,william.wilson@gmail.com,3533831061849301,02/32,873
+Vylara,978,25806,Lunar Sentinels,3,57b25c332d406c3a,16e39a8ea74f6441,rogue,143e08c0952bec61,Wayne,Garcia,wayne.garcia@gmail.com,2336439602534662,09/27,304
+Rynor,2953,49682,,9,699581ca69a0a4e6,,"rogue, mage",579ec3703227f812,Jason,Thomas,jason.thomas@gmail.com,3523648990505461,01/34,249
+Lorith,5112,73493,The Stormbound,15,83f955304e2672fa,ac3939baa329f253,cleric,a192eb598106c888,Daniel,Calhoun,daniel.calhoun@gmail.com,3552244493844963,05/33,962
+Selorin,4332,79833,The Shattered Shields,13,c8be41ab8f4c76d6,5c678cd3ad75f80c,"bard, rogue",9399295e43b7de31,Manuel,Dunn,manuel.dunn@gmail.com,4420487050869734726,02/33,106
+Selorin,4332,79833,The Shattered Shields,13,c8be41ab8f4c76d6,5c678cd3ad75f80c,"bard, rogue",9399295e43b7de31,Manuel,Dunn,manuel.dunn@gmail.com,6579594589507656,05/25,154
+Orin,6405,52294,Lunar Sentinels,19,331258b5e6a2d518,16e39a8ea74f6441,rogue,0798424821c75070,Alan,Taylor,alan.taylor@gmail.com,501841090548,05/27,618
+Thalor,2837,66172,The Sunfire Legion,9,e8dd7a14fa63bb3a,8c2887822ef0bba3,"cleric, warrior",48e595ac884d425a,Tammy,Foster,tammy.foster@gmail.com,4195079448332,02/32,059
+Korrin,1960,12852,Emerald Enclave,6,ad0d357bdb313255,c9dbb8658c62030a,cleric,b654e8ba0b402582,Stephen,Brown,stephen.brown@gmail.com,180089244420621,07/34,692
+Zalindra,1638,76588,Wraithwalkers,5,ef537debb9bcfa74,21d81b18d525e659,"warrior, warrior",eb19b933a054fbe1,Laura,Santiago,laura.santiago@gmail.com,4754396247510,10/27,581
+Lynara,4390,79174,Shadowveil Assassins,13,2c6347f09892a999,52f6902bcca61a6a,"bard, bard",eb19b933a054fbe1,Laura,Santiago,laura.santiago@gmail.com,4754396247510,10/27,581
+Varyn,7186,38571,The Rune Keepers,21,9e3dfabfd433b042,6aae14cdff83ccc4,paladin,407a5e98945cbf5c,Julia,Duncan,julia.duncan@gmail.com,3517432548916605,03/34,509
+Vysrin,4121,31697,Lunar Sentinels,12,62b4e8c17771e312,16e39a8ea74f6441,druid,8f31b0b7f38d167e,Michelle,Poole,michelle.poole@gmail.com,213103295031285,02/29,436
+Valyra,8589,28723,The Whispering Blades,25,62e1fda1c5ca3edb,c8204d38a4b37e1b,rogue,53a6f870ced734ba,Amber,Smith,amber.smith@gmail.com,3585878400575664,10/24,176
+Rylandor,3156,47760,Emerald Enclave,10,e070828663b1bff8,c9dbb8658c62030a,druid,caa8e2eda492f3fb,Adam,Rodriguez,adam.rodriguez@gmail.com,6575081954540615,11/28,731
+Rylandor,3156,47760,Emerald Enclave,10,e070828663b1bff8,c9dbb8658c62030a,druid,caa8e2eda492f3fb,Adam,Rodriguez,adam.rodriguez@gmail.com,4042885275384093,07/25,673
+Aelindra,8080,84035,The Verdant Cloaks,24,a34edf1145919168,864fbef6ede481aa,"cleric, cleric",0ed4dea867c00ba4,Nicholas,Banks,nicholas.banks@gmail.com,4310061687256205,04/32,913
+Aelindra,8080,84035,The Verdant Cloaks,24,a34edf1145919168,864fbef6ede481aa,"cleric, cleric",0ed4dea867c00ba4,Nicholas,Banks,nicholas.banks@gmail.com,3561241567741553,12/29,797
+Zerion,4746,28013,The Rune Keepers,14,2e70169465b7ac18,6aae14cdff83ccc4,paladin,33d5d82043979652,Molly,Sanchez,molly.sanchez@gmail.com,372731507819753,01/30,275
+Kalindra,8129,11044,Celestial Vanguard,24,45f19c49885bd7a6,ff564bdf91a6a9aa,"bard, mage",33d5d82043979652,Molly,Sanchez,molly.sanchez@gmail.com,372731507819753,01/30,275
+Thyros,750,96106,Obsidian Order,3,3fb50b2979e84235,e04cb009a4178bda,"druid, warrior",efa1946e8c6e5d5f,Elizabeth,Walker,elizabeth.walker@gmail.com,4087944377589731,10/33,557
+Thalorian,2140,96189,The Gilded Hawks,7,b1be4a0c6776c7a0,026359fd1703738d,bard,f65db083b3219bec,Kristen,Lewis,kristen.lewis@gmail.com,4015251608539,08/32,028
+Kelion,156,35544,,1,ce4579458b71f997,,warrior,011e02aa32d0d60a,Joseph,Gentry,joseph.gentry@gmail.com,6574561836169791,06/27,623
+Lynora,5532,67829,The Ashen Wolves,16,69cc8f51259c2fd9,d77d8cb078217876,"paladin, druid",23a2f9621c8e5311,Olivia,Whitney,olivia.whitney@gmail.com,6545835630222261,05/30,676
+Lynora,5532,67829,The Ashen Wolves,16,69cc8f51259c2fd9,d77d8cb078217876,"paladin, druid",23a2f9621c8e5311,Olivia,Whitney,olivia.whitney@gmail.com,3543608307257699,07/34,588
+Ryndra,3032,38860,The Stormbound,9,d359e7a2957f8c79,ac3939baa329f253,"paladin, rogue",58d356b2373aa3dd,Terri,Smith,terri.smith@gmail.com,3556920013616421,06/31,132
+Ryndra,3032,38860,The Stormbound,9,d359e7a2957f8c79,ac3939baa329f253,"paladin, rogue",58d356b2373aa3dd,Terri,Smith,terri.smith@gmail.com,2246672072761683,01/26,694
+Zephyra,5951,7674,The Ironclad,18,c5839cd5bf2b10d5,8d0631fb5e7fe821,"mage, ranger",53242f062d94345e,Clifford,Morgan,clifford.morgan@gmail.com,2554748920056058,04/26,0029
+Zephyra,5951,7674,The Ironclad,18,c5839cd5bf2b10d5,8d0631fb5e7fe821,"mage, ranger",53242f062d94345e,Clifford,Morgan,clifford.morgan@gmail.com,676113048505,10/26,841
+Velorin,2998,14367,Order of the Phoenix,9,483e2a432ee2cc3c,4103fe5dbe3b8825,"mage, mage",56fde37bc8f16fd1,Tyler,Harris,tyler.harris@gmail.com,4185654570464117221,05/26,300
+Marianis,3077,23528,Blades of Valoria,9,f8165191dad2633d,e9c3b0d506c11b1c,warrior,de17e515f951fc94,Jacob,Robertson,jacob.robertson@gmail.com,2720449608204024,03/26,733
+Marianis,3077,23528,Blades of Valoria,9,f8165191dad2633d,e9c3b0d506c11b1c,warrior,de17e515f951fc94,Jacob,Robertson,jacob.robertson@gmail.com,3536533384967870,12/32,375
+Rynara,1400,78576,The Verdant Cloaks,5,6dd0bfa01b703db7,864fbef6ede481aa,"necromancer, paladin",de17e515f951fc94,Jacob,Robertson,jacob.robertson@gmail.com,2720449608204024,03/26,733
+Rynara,1400,78576,The Verdant Cloaks,5,6dd0bfa01b703db7,864fbef6ede481aa,"necromancer, paladin",de17e515f951fc94,Jacob,Robertson,jacob.robertson@gmail.com,3536533384967870,12/32,375
+Sarin,4307,43538,Wraithwalkers,13,cefb4da1f4454df5,21d81b18d525e659,"cleric, cleric",946eb444c5602ada,James,Simpson,james.simpson@gmail.com,3578489108825838,12/24,496
+Syloria,3497,58508,The Whispering Blades,10,b551dbe997984282,c8204d38a4b37e1b,"paladin, warrior",309fd388e652148e,Ashley,Miller,ashley.miller@gmail.com,4823302522885885,10/28,785
+Thrandor,2105,63475,Lunar Sentinels,7,8b5d6ac2ac233ea9,16e39a8ea74f6441,paladin,569d9f56164689e6,Alvin,Arnold,alvin.arnold@gmail.com,501846113634,03/28,040
+Thrandor,2105,63475,Lunar Sentinels,7,8b5d6ac2ac233ea9,16e39a8ea74f6441,paladin,569d9f56164689e6,Alvin,Arnold,alvin.arnold@gmail.com,3548699573188556,04/34,786
+Torvin,1718,23372,Lunar Sentinels,5,e998864e6f1e4953,16e39a8ea74f6441,"warrior, paladin",569d9f56164689e6,Alvin,Arnold,alvin.arnold@gmail.com,501846113634,03/28,040
+Torvin,1718,23372,Lunar Sentinels,5,e998864e6f1e4953,16e39a8ea74f6441,"warrior, paladin",569d9f56164689e6,Alvin,Arnold,alvin.arnold@gmail.com,3548699573188556,04/34,786
+Eldara,9496,2394,The Onyx Order,28,7b88ac5d4c64f140,47c6c97e4bf8ee42,"warlock, paladin",50940f1329acca9c,William,Mason,william.mason@gmail.com,2262813173093654,09/34,446
+Sarinth,8772,8369,Order of the Phoenix,26,45d1c69e4583a0a6,4103fe5dbe3b8825,bard,6c09e076e92f5b38,Deborah,Brown,deborah.brown@gmail.com,3502463572841283,04/33,353
+Selyn,2375,30608,Shadowveil Assassins,7,7e193aea075d586f,52f6902bcca61a6a,ranger,6c09e076e92f5b38,Deborah,Brown,deborah.brown@gmail.com,3502463572841283,04/33,353
+Vystra,8723,68335,Frostborn Vanguard,25,c6ef938e38afcc7b,7c3e2694896fda37,paladin,02219e6e98c5afae,Emily,Sanchez,emily.sanchez@gmail.com,676207802981,11/32,680
+Vystra,8723,68335,Frostborn Vanguard,25,c6ef938e38afcc7b,7c3e2694896fda37,paladin,02219e6e98c5afae,Emily,Sanchez,emily.sanchez@gmail.com,30367731126501,12/32,215
+Nyras,6509,832,Moonshadow Brotherhood,19,710846201359734f,7d5712da1c5571d4,"druid, rogue",86d6e22818670bfb,Mary,Craig,mary.craig@gmail.com,2326033296809415,11/28,869
+Aelorin,3404,49827,The Shattered Shields,10,2a6c3a3a0c7d2555,5c678cd3ad75f80c,"bard, paladin",8b7cd52c1728cf68,Mary,Garcia,mary.garcia@gmail.com,4501542244788844951,09/28,2214
+Marion,9234,59513,The Sunfire Legion,27,a6ad1c654a9dc367,8c2887822ef0bba3,"druid, ranger",d153d38bbd6d158d,Sheila,Bartlett,sheila.bartlett@gmail.com,3521643034033788,07/31,454
+Lysar,5228,80765,Crimson Covenant,15,74c24aa366a64fa2,95495c681c04c891,"paladin, mage",cac13586b729a363,Ellen,Adams,ellen.adams@gmail.com,213156790793395,12/31,444
+Valorian,4570,3113,Obsidian Order,14,782717948b5b823f,e04cb009a4178bda,warrior,cac13586b729a363,Ellen,Adams,ellen.adams@gmail.com,213156790793395,12/31,444
+Aeloria,857,79946,Emerald Enclave,3,a667567cd7133ad5,c9dbb8658c62030a,warlock,6f03cc434b4cd131,Maria,Miller,maria.miller@gmail.com,3547149925639337,06/28,778
+Lorwyn,2159,39347,Emerald Enclave,7,fb60ca9e208f192f,c9dbb8658c62030a,"paladin, cleric",73ffd2c5fac00aaf,Shawn,Thompson,shawn.thompson@gmail.com,4615040392552142,08/29,574
+Tharion,2986,65539,Stormriders,9,40d81e105d84635d,8f988bdc8e02453c,ranger,e35956298e275f7d,Lauren,Stephens,lauren.stephens@gmail.com,502027026371,08/30,709
+Sylvara,3934,75151,Moonshadow Brotherhood,12,d85a4a867c10faa8,7d5712da1c5571d4,necromancer,cb31c9c4dd625a3c,Ralph,Richmond,ralph.richmond@gmail.com,6011679585223261,07/34,043
+Marionis,4826,52558,Order of the Phoenix,14,195f728b2c575bf3,4103fe5dbe3b8825,"mage, necromancer",82f1a3ed5bc05a4d,Dwayne,Lara,dwayne.lara@gmail.com,4664240687245895,05/27,793
+Elthar,7351,1337,The Gilded Hawks,22,e838febdb3c50ce7,026359fd1703738d,mage,c081d7c850a97458,Mindy,Hall,mindy.hall@gmail.com,2277785427706864,03/25,512
+Rythor,3076,67837,,9,e509e904de3200ad,,mage,e366df11f10c649d,Lisa,Watts,lisa.watts@gmail.com,4503508825084326,01/31,439
+Thorin,4221,81737,Crimson Covenant,13,0c6c1ae1e5ec1d76,95495c681c04c891,"rogue, warlock",e94aa209942e3d57,Brian,Parker,brian.parker@gmail.com,3557759877352940,08/28,950
+Kalorin,6926,60409,The Sunfire Legion,20,dfbfd7001e4f11c4,8c2887822ef0bba3,paladin,34d0c631959a99a4,Breanna,Turner,breanna.turner@gmail.com,639037170870,03/29,566
+Arinor,1617,67296,The Shattered Shields,5,9f75bda415215d6b,5c678cd3ad75f80c,warlock,219c68e17e73a4bb,Rachel,Young,rachel.young@gmail.com,344838611307164,01/26,606
+Zylorin,6182,51407,Shadowveil Assassins,18,08825ee12ee2f944,52f6902bcca61a6a,"ranger, bard",219c68e17e73a4bb,Rachel,Young,rachel.young@gmail.com,344838611307164,01/26,606
+Zephyris,3341,34667,The Bloodsworn,10,b5ba9145aa9ab3a3,b6dec619300d9739,"warrior, warlock",e18756b7afcabf84,Angela,Williams,angela.williams@gmail.com,060435134121,09/26,340
+Zyphera,5733,12620,The Silver Serpents,17,cc0ba379acc2c894,b16b3bc0a1387ee0,necromancer,5bf087e15dcfe1da,Natasha,Martinez,natasha.martinez@gmail.com,3504798972621035,04/29,893
+Zarion,7777,48362,The Shattered Shields,23,41b5501883273ace,5c678cd3ad75f80c,warrior,50959564573fe5c5,Alison,Mason,alison.mason@gmail.com,4168349937920966,12/26,521
+Valeth,1151,9635,Blades of Valoria,4,5033f1b37f05f4fd,e9c3b0d506c11b1c,"ranger, bard",7149a36d605bd7dc,Alexis,Jones,alexis.jones@gmail.com,30372367880116,10/32,246
+Vynra,1359,61061,The Night Watchers,4,ae4813704faeb249,e65f653cf961bf99,"cleric, mage",b77e41ed4aca9f0b,Lori,Williamson,lori.williamson@gmail.com,180005063267265,08/32,604
+Sorwin,915,52228,The Shattered Shields,3,0c24e12de40bd26c,5c678cd3ad75f80c,paladin,dba3e1a914c86008,Meagan,Smith,meagan.smith@gmail.com,213120618920051,12/25,683
+Zaric,8716,13713,The Sunfire Legion,25,0378fc67c7feba30,8c2887822ef0bba3,mage,c57aafce4aed5395,Dan,Mendoza,dan.mendoza@gmail.com,213184708551952,03/34,598
+Nytherin,740,99114,The Verdant Cloaks,3,2e5c449f5919ab72,864fbef6ede481aa,"druid, paladin",c57aafce4aed5395,Dan,Mendoza,dan.mendoza@gmail.com,213184708551952,03/34,598
+Zylara,852,47285,The Sunfire Legion,3,1506fe68c984b3e7,8c2887822ef0bba3,"bard, paladin",8e6e76aea4e7e273,Theresa,Moore,theresa.moore@gmail.com,3536283862147286,08/32,747
+Zylara,852,47285,The Sunfire Legion,3,1506fe68c984b3e7,8c2887822ef0bba3,"bard, paladin",8e6e76aea4e7e273,Theresa,Moore,theresa.moore@gmail.com,3562281484093703,07/31,171
+Thariel,4874,99070,Shadowveil Assassins,14,6334f27392a83de4,52f6902bcca61a6a,bard,9eafbd4305f66fe6,Gregory,Barry,gregory.barry@gmail.com,3501152449390928,05/29,446
+Valtor,6040,33599,Celestial Vanguard,18,a7bc8fae51ce8db1,ff564bdf91a6a9aa,"druid, paladin",3837431360460405,Suzanne,Sanders,suzanne.sanders@gmail.com,6566226275092876,04/31,417
+Valtor,6040,33599,Celestial Vanguard,18,a7bc8fae51ce8db1,ff564bdf91a6a9aa,"druid, paladin",3837431360460405,Suzanne,Sanders,suzanne.sanders@gmail.com,3599770318925954,06/28,878
+Kelvar,8445,41448,Moonshadow Brotherhood,25,321ab85dd07c9913,7d5712da1c5571d4,"necromancer, rogue",fdd3a743c6f5885e,Victoria,French,victoria.french@gmail.com,3591457047890463,06/31,365
+Kallora,643,61374,The Shattered Shields,2,7393a3e1391dff1b,5c678cd3ad75f80c,"paladin, mage",4c3b619f4dc5375e,Stephanie,Cole,stephanie.cole@gmail.com,4585879173400708,07/32,162
+Kaelus,4013,91368,The Ebon Circle,12,fb405a8a97a9c6a9,4f31ff70b1901ac6,"ranger, warlock",e8eb0a2acc8f3446,Zachary,Contreras,zachary.contreras@gmail.com,4783331001616998,05/30,8986
+Orionis,3846,72566,Dragonheart Syndicate,11,a8d3712b92eac5a6,d96e0324970f052f,"druid, bard",96fc1466acbc3864,Jesse,Dillon,jesse.dillon@gmail.com,6515432198162224,02/29,604
+Zeloria,8969,59221,The Onyx Order,26,43145e8f01fcf6a6,47c6c97e4bf8ee42,bard,eb80ad072b244ca0,Tracy,Garcia,tracy.garcia@gmail.com,378991988767269,11/32,125
+Elyndra,8547,88770,The Onyx Order,25,57dc6f81610daa98,47c6c97e4bf8ee42,"mage, paladin",ec4cb21e8e981389,Willie,Carlson,willie.carlson@gmail.com,4631554623947500010,06/28,737
+Selena,3612,84433,,11,e390747214990eda,,druid,50081ad2cf549022,Ryan,Allen,ryan.allen@gmail.com,36357904830595,09/32,720
+Selena,3612,84433,,11,e390747214990eda,,druid,50081ad2cf549022,Ryan,Allen,ryan.allen@gmail.com,180087282062453,11/30,534
+Zalric,3837,78638,,11,be421e81261dcb6c,,"rogue, cleric",64b89d31f9e3b587,Kathryn,Yoder,kathryn.yoder@gmail.com,6553960112254837,08/25,889
+Sorwen,7883,16464,The Verdant Cloaks,23,81deb40fe727688e,864fbef6ede481aa,"cleric, warrior",a7d4e04c21aac23a,Erik,Moore,erik.moore@gmail.com,180061528831443,01/34,563
+Lorian,2780,32003,The Silent Hand,8,fb87c0de6c75ec0c,a6830251bca377af,"warlock, rogue",ed2d1f31376b7045,Becky,Edwards,becky.edwards@gmail.com,36118487582338,10/26,215
+Thrynn,7936,95994,Shadowveil Assassins,23,6b6b5fc421fa1ece,52f6902bcca61a6a,druid,62169d4d06f09c8f,Nicholas,Mcneil,nicholas.mcneil@gmail.com,2224060055230114,07/26,6149
+Vesindra,2095,16354,The Sunfire Legion,6,4aff1893ceea492e,8c2887822ef0bba3,"ranger, necromancer",3b5cf59e63b621c1,Tonya,Blankenship,tonya.blankenship@gmail.com,4949542886407,04/30,999
+Valeryn,899,99702,The Onyx Order,3,e0c3360e3e0f97ed,47c6c97e4bf8ee42,rogue,28d49a4f2f8c9a5e,Jamie,Parks,jamie.parks@gmail.com,6011329661766763,11/29,032
+Lorin,6325,61536,Guardians of the Dawn,19,d34cbbd5229ea6fc,9ef1a491982cbf06,cleric,28d49a4f2f8c9a5e,Jamie,Parks,jamie.parks@gmail.com,6011329661766763,11/29,032
+Elindra,7309,45255,Guardians of the Dawn,21,2e74132c9d04b96e,9ef1a491982cbf06,bard,28d49a4f2f8c9a5e,Jamie,Parks,jamie.parks@gmail.com,6011329661766763,11/29,032
+Kallindra,8098,97104,The Gilded Hawks,24,1f41aa9d60f5e93a,026359fd1703738d,paladin,9edee5ba650f74f9,Thomas,Mercer,thomas.mercer@gmail.com,180023565959495,07/33,9248
+Draelin,7551,66475,The Ashen Wolves,22,7bee93f4aaf25b2f,d77d8cb078217876,"mage, mage",ace1f4b79fe3f74b,Cindy,Myers,cindy.myers@gmail.com,4550390350076924,08/32,123
+Koryn,5643,72440,The Rune Keepers,17,e6b7df294841f1a1,6aae14cdff83ccc4,"paladin, ranger",fa35e4edf8386d79,Gary,Norton,gary.norton@gmail.com,3505422280690322,05/29,374
+Orion,2715,43477,Crimson Covenant,8,dfd3eb89fed37e5c,95495c681c04c891,"warlock, mage",d8bb7aafba42adf8,Susan,Booker,susan.booker@gmail.com,5386950676117772,04/33,020
+Kelindra,3951,47980,Moonshadow Brotherhood,12,7aeb7049b0eed56a,7d5712da1c5571d4,ranger,d6ee5a97fcf9a93a,Paul,Flores,paul.flores@gmail.com,4152194642881862528,03/30,868
+Korith,1601,22208,,5,ef373f41ed0c1907,,warlock,d6ee5a97fcf9a93a,Paul,Flores,paul.flores@gmail.com,4152194642881862528,03/30,868
+Thrandir,646,8460,,2,1bc9900e6b8fdfe1,,necromancer,800d174da0b99291,Anna,Green,anna.green@gmail.com,6011969618293922,09/27,156
+Orinthar,5691,85722,,17,e542e6c330612cea,,"warrior, ranger",6fc89a1f292ee92f,Christopher,Jones,christopher.jones@gmail.com,213100468983615,06/33,616
+Korrath,2556,90701,Order of the Phoenix,8,236d81e8e223ae45,4103fe5dbe3b8825,warlock,b6a176719f911c6e,Abigail,Allen,abigail.allen@gmail.com,30083336902044,04/33,973
+Elowen,3423,24836,The Bloodsworn,10,3e89cf969cf4481e,b6dec619300d9739,rogue,bc32fae08db98ffa,Jennifer,Meadows,jennifer.meadows@gmail.com,4199115282614,06/33,419
+Elowen,3423,24836,The Bloodsworn,10,3e89cf969cf4481e,b6dec619300d9739,rogue,bc32fae08db98ffa,Jennifer,Meadows,jennifer.meadows@gmail.com,3555666460314900,01/29,601
+Zariel,7416,87211,The Sunfire Legion,22,29636d9ac3f61c0a,8c2887822ef0bba3,"warlock, bard",26aaa2b21ba8376b,David,Peterson,david.peterson@gmail.com,4137319567256141110,01/30,303
+Lyndra,8933,19915,Obsidian Order,26,3fd3cf1bcf46124d,e04cb009a4178bda,"rogue, warlock",756715b23a9a2736,Anthony,Lewis,anthony.lewis@gmail.com,379777429949742,10/30,662
+Zoranis,4135,13843,Blades of Valoria,12,b9066459daccfa1c,e9c3b0d506c11b1c,druid,a9ada596e609c4dc,Jennifer,Gray,jennifer.gray@gmail.com,3572792520422696,10/32,4628
+Zoranis,4135,13843,Blades of Valoria,12,b9066459daccfa1c,e9c3b0d506c11b1c,druid,a9ada596e609c4dc,Jennifer,Gray,jennifer.gray@gmail.com,3508288886781683,04/32,335
+Dralin,4512,94723,Frostborn Vanguard,13,38e252e6994c07ef,7c3e2694896fda37,"necromancer, mage",19c14c60f5126bea,Amy,Thompson,amy.thompson@gmail.com,4040029533181,10/30,866
+Nyssorin,6041,46902,Blades of Valoria,18,c89bc95fff6c0334,e9c3b0d506c11b1c,"necromancer, warlock",6544a7c7d1d420d0,Phillip,Manning,phillip.manning@gmail.com,6540050546632901,10/30,635
+Vyrin,5201,43282,The Ebon Circle,15,f945b2e4e0a9da46,4f31ff70b1901ac6,rogue,248ea76dee55dee6,Briana,Elliott,briana.elliott@gmail.com,4074156922180,05/28,628
+Marwyn,2660,12269,The Shattered Shields,8,9edae88f19c49c0f,5c678cd3ad75f80c,"cleric, bard",6afddc28fe4adcc2,Kevin,Macdonald,kevin.macdonald@gmail.com,371403654869830,10/25,8757
+Marwyn,2660,12269,The Shattered Shields,8,9edae88f19c49c0f,5c678cd3ad75f80c,"cleric, bard",6afddc28fe4adcc2,Kevin,Macdonald,kevin.macdonald@gmail.com,3501556542812598,12/29,341
+Marwyn,2660,12269,The Shattered Shields,8,9edae88f19c49c0f,5c678cd3ad75f80c,"cleric, bard",6afddc28fe4adcc2,Kevin,Macdonald,kevin.macdonald@gmail.com,4713650547007122,03/25,4533
+Soryn,6283,36456,Stormriders,18,4fd30306513e3a0a,8f988bdc8e02453c,"bard, bard",17345a9b0537884b,Ethan,Pittman,ethan.pittman@gmail.com,5346701601036036,10/30,162
+Soryn,6283,36456,Stormriders,18,4fd30306513e3a0a,8f988bdc8e02453c,"bard, bard",17345a9b0537884b,Ethan,Pittman,ethan.pittman@gmail.com,4998855276317452715,04/28,329
+Nyxora,4714,62340,The Silver Serpents,14,48573430e0dee73d,b16b3bc0a1387ee0,paladin,a33fe4fc2dafda50,Jeffery,Best,jeffery.best@gmail.com,6557167049923221,08/25,701
+Nyxora,4714,62340,The Silver Serpents,14,48573430e0dee73d,b16b3bc0a1387ee0,paladin,a33fe4fc2dafda50,Jeffery,Best,jeffery.best@gmail.com,347755952704808,09/34,639
+Sylora,3731,82554,Stormriders,11,8e5e25f7401a2c34,8f988bdc8e02453c,mage,4e586a416cc427ef,Chad,Huffman,chad.huffman@gmail.com,30431572336403,10/32,818
+Sylora,3731,82554,Stormriders,11,8e5e25f7401a2c34,8f988bdc8e02453c,mage,4e586a416cc427ef,Chad,Huffman,chad.huffman@gmail.com,4771559835121,01/28,871
+Kyndor,927,54942,The Silent Hand,3,2484b7022464967c,a6830251bca377af,"mage, warlock",4e586a416cc427ef,Chad,Huffman,chad.huffman@gmail.com,30431572336403,10/32,818
+Kyndor,927,54942,The Silent Hand,3,2484b7022464967c,a6830251bca377af,"mage, warlock",4e586a416cc427ef,Chad,Huffman,chad.huffman@gmail.com,4771559835121,01/28,871
+Zyrel,7494,14233,The Silver Serpents,22,079eeb5e33335f36,b16b3bc0a1387ee0,necromancer,c62f16d0195d9808,Sheila,Butler,sheila.butler@gmail.com,5195240039361510,12/26,864
+Elora,1438,57127,,5,70cb4b25122bcc19,,"warrior, cleric",fcdeaee4a21a2f7c,Michele,Johnson,michele.johnson@gmail.com,4752392790233095,09/24,473
+Brevin,5934,25909,The Onyx Order,17,dc4b409768a9c45a,47c6c97e4bf8ee42,necromancer,e8bb6f3721c74974,Marvin,Gilbert,marvin.gilbert@gmail.com,180001889666327,01/30,280
+Vylorin,795,95845,Shadowveil Assassins,3,98b8bc872853f70c,52f6902bcca61a6a,ranger,54d5ea68f64d3079,Aaron,Cooper,aaron.cooper@gmail.com,4431158780255478026,01/25,652
+Thaloria,8542,95768,,25,f4c3823c7bfd6c0b,,"paladin, warlock",07c053806f3a6a75,Emily,Simon,emily.simon@gmail.com,5407067739910401,07/28,526
+Thaloria,8542,95768,,25,f4c3823c7bfd6c0b,,"paladin, warlock",07c053806f3a6a75,Emily,Simon,emily.simon@gmail.com,4530691849664955,06/25,6707
+Thaloria,8542,95768,,25,f4c3823c7bfd6c0b,,"paladin, warlock",07c053806f3a6a75,Emily,Simon,emily.simon@gmail.com,577444120213,07/28,588
+Karion,5858,77967,Shadowveil Assassins,17,05f57d4ef8ae503c,52f6902bcca61a6a,mage,6183243d915218fb,Lisa,Johnson,lisa.johnson@gmail.com,180039384849428,05/31,547
+Karion,5858,77967,Shadowveil Assassins,17,05f57d4ef8ae503c,52f6902bcca61a6a,mage,6183243d915218fb,Lisa,Johnson,lisa.johnson@gmail.com,3503351323341829,07/27,403
+Thalira,7555,97398,Lunar Sentinels,22,e8fef992b4d0c14e,16e39a8ea74f6441,"ranger, mage",3e8c30c9e50cee4d,Kaylee,Williams,kaylee.williams@gmail.com,4523466066368582784,02/33,524
+Torvyn,778,7131,,3,7da7c7c3854d4532,,paladin,2cb42333c5a7c2b6,Barbara,Stokes,barbara.stokes@gmail.com,2241533390559024,12/31,752
+Falor,754,91187,The Ashen Wolves,3,d7a1ecb28b60ae5a,d77d8cb078217876,rogue,a716e3952ccca899,Amanda,Shepard,amanda.shepard@gmail.com,4752774727343,06/32,139
+Selwyn,823,55656,The Ironclad,3,6f54a0d8ba1252d6,8d0631fb5e7fe821,cleric,e02866d3a36b3456,Todd,West,todd.west@gmail.com,4567852810262634988,11/29,1104
+Lyrion,9467,33151,Lunar Sentinels,28,b6902e40a347eb1a,16e39a8ea74f6441,"ranger, cleric",bbd3614fa295eeef,Jennifer,Casey,jennifer.casey@gmail.com,3563537847556507,09/25,396
+Lysarin,733,3509,,3,67d275d6ee86829e,,warrior,658de53b0407767a,John,Smith,john.smith@gmail.com,676168007380,09/34,014
+Arinthor,257,93482,The Verdant Cloaks,1,1b1a223005776483,864fbef6ede481aa,"rogue, necromancer",824eaf5bdc91f5f5,Sharon,Duncan,sharon.duncan@gmail.com,503828058514,11/26,198
+Zorwin,9349,41799,The Ashen Wolves,27,0e1ff13c9b180261,d77d8cb078217876,bard,2df5746e2fef3979,Keith,Taylor,keith.taylor@gmail.com,30319741773293,11/25,167
+Nyxorin,5300,66116,Moonshadow Brotherhood,16,974288aee7723647,7d5712da1c5571d4,"ranger, cleric",74d3f516750b150e,Andrew,Underwood,andrew.underwood@gmail.com,3574463231048265,10/32,017
+Morven,414,50627,Lunar Sentinels,2,fd1753b88e627409,16e39a8ea74f6441,warrior,74d3f516750b150e,Andrew,Underwood,andrew.underwood@gmail.com,3574463231048265,10/32,017
+Thaldor,6656,99478,Emerald Enclave,20,064662c188574c2c,c9dbb8658c62030a,"warrior, druid",74d3f516750b150e,Andrew,Underwood,andrew.underwood@gmail.com,3574463231048265,10/32,017
+Kethor,2684,23460,Lunar Sentinels,8,c4c81f24c0e5e26a,16e39a8ea74f6441,cleric,3a4db89a98198315,Brianna,Buchanan,brianna.buchanan@gmail.com,502015189256,03/27,545
+Kethor,2684,23460,Lunar Sentinels,8,c4c81f24c0e5e26a,16e39a8ea74f6441,cleric,3a4db89a98198315,Brianna,Buchanan,brianna.buchanan@gmail.com,30144365361112,05/34,1237
+Kethor,2684,23460,Lunar Sentinels,8,c4c81f24c0e5e26a,16e39a8ea74f6441,cleric,3a4db89a98198315,Brianna,Buchanan,brianna.buchanan@gmail.com,2700691341442221,09/32,117
+Selara,3211,37107,The Onyx Order,10,cbed2a7e571be821,47c6c97e4bf8ee42,necromancer,8501f75ce06ecc33,Jeffrey,King,jeffrey.king@gmail.com,5137232505084339,04/26,2229
+Sorath,8325,73320,Emerald Enclave,24,4bcc71591313f234,c9dbb8658c62030a,"druid, ranger",e9f40231eeddbf50,Ronald,Weaver,ronald.weaver@gmail.com,38773664350699,10/28,7453
+Marisandra,6631,77324,The Silent Hand,19,ee81e1efa06c0dde,a6830251bca377af,"mage, necromancer",9d88d6929f60c466,Jade,Cordova,jade.cordova@gmail.com,36882812326345,08/28,205
+Marisandra,6631,77324,The Silent Hand,19,ee81e1efa06c0dde,a6830251bca377af,"mage, necromancer",9d88d6929f60c466,Jade,Cordova,jade.cordova@gmail.com,36987325683221,10/32,589
+Soren,8951,65052,Stormriders,26,ecbe3043f2e5a837,8f988bdc8e02453c,"necromancer, ranger",9d88d6929f60c466,Jade,Cordova,jade.cordova@gmail.com,36882812326345,08/28,205
+Soren,8951,65052,Stormriders,26,ecbe3043f2e5a837,8f988bdc8e02453c,"necromancer, ranger",9d88d6929f60c466,Jade,Cordova,jade.cordova@gmail.com,36987325683221,10/32,589
+Thandor,2865,50060,Emerald Enclave,9,9db7f5616749a3f5,c9dbb8658c62030a,"druid, ranger",9d88d6929f60c466,Jade,Cordova,jade.cordova@gmail.com,36882812326345,08/28,205
+Thandor,2865,50060,Emerald Enclave,9,9db7f5616749a3f5,c9dbb8658c62030a,"druid, ranger",9d88d6929f60c466,Jade,Cordova,jade.cordova@gmail.com,36987325683221,10/32,589
+Eldris,1174,18371,The Rune Keepers,4,3abf54a4657bc8ba,6aae14cdff83ccc4,"warlock, mage",f9eac65bec6e0206,Emily,Allen,emily.allen@gmail.com,4709631965144,04/32,603
+Eldris,1174,18371,The Rune Keepers,4,3abf54a4657bc8ba,6aae14cdff83ccc4,"warlock, mage",f9eac65bec6e0206,Emily,Allen,emily.allen@gmail.com,30468323555410,02/26,5764
+Selindra,2603,7829,Lunar Sentinels,8,425a798c0c6d07b9,16e39a8ea74f6441,"druid, bard",f6072239ff2a3068,Scott,Fisher,scott.fisher@gmail.com,4742589159630679,11/25,684
+Zyloris,4263,32490,Guardians of the Dawn,13,a4852a28aeb0eac6,9ef1a491982cbf06,"cleric, paladin",243e81b16aad8452,Erika,Norris,erika.norris@gmail.com,30263109707453,09/24,097
+Zoran,5611,89069,Celestial Vanguard,17,7a65e09b26b7018f,ff564bdf91a6a9aa,bard,288376e5048a0f42,Jeffrey,Richardson,jeffrey.richardson@gmail.com,213164802066214,05/26,6397
+Zoran,5611,89069,Celestial Vanguard,17,7a65e09b26b7018f,ff564bdf91a6a9aa,bard,288376e5048a0f42,Jeffrey,Richardson,jeffrey.richardson@gmail.com,4498900491836435,04/31,268
+Thalwyn,2105,14940,The Whispering Blades,7,01d41ea991134f1f,c8204d38a4b37e1b,warlock,9cb6ebf4bfe5ad1f,Andrew,Leach,andrew.leach@gmail.com,4088198006661,01/32,215
+Thandar,1748,12450,The Gilded Hawks,5,6fa55f56d24190e7,026359fd1703738d,necromancer,abfc830c7115a3d9,Karla,Jones,karla.jones@gmail.com,3526742663318679,02/29,002
+Thandar,1748,12450,The Gilded Hawks,5,6fa55f56d24190e7,026359fd1703738d,necromancer,abfc830c7115a3d9,Karla,Jones,karla.jones@gmail.com,180003409675531,04/26,763
+Zylora,9352,15610,The Bloodsworn,27,e406ae6ec5314df8,b6dec619300d9739,ranger,f47f39d97651a7f7,Steve,Clay,steve.clay@gmail.com,4947418944198919600,05/32,835
+Althar,9670,57364,Emerald Enclave,28,358c991ab068b55b,c9dbb8658c62030a,"warrior, bard",62e26efa811cd2be,Brian,York,brian.york@gmail.com,213102395413237,10/28,552
+Morwyn,5258,23287,Stormriders,16,6b6aee9aaeca86cd,8f988bdc8e02453c,bard,a4c5014ac428a7fa,Jennifer,Avery,jennifer.avery@gmail.com,374145454681835,03/31,722
+Lyrian,8464,54991,The Gilded Hawks,25,f9593bb1206ae2e5,026359fd1703738d,necromancer,a4c5014ac428a7fa,Jennifer,Avery,jennifer.avery@gmail.com,374145454681835,03/31,722
+Elorn,5033,33789,The Shattered Shields,15,154898fd731c8563,5c678cd3ad75f80c,"paladin, ranger",3b5b71dc7501ef02,Melanie,Savage,melanie.savage@gmail.com,4290364529977,11/30,103
+Lirion,9343,46503,The Rune Keepers,27,02d6a87c4f825636,6aae14cdff83ccc4,"cleric, mage",f443810816254857,Andrew,Arnold,andrew.arnold@gmail.com,213194659992196,03/31,531
+Dragorin,4159,98575,The Shattered Shields,12,908a67ae1c6ef835,5c678cd3ad75f80c,necromancer,f443810816254857,Andrew,Arnold,andrew.arnold@gmail.com,213194659992196,03/31,531
+Aylara,9069,40448,The Ashen Wolves,26,fff1bf62049cb0cc,d77d8cb078217876,rogue,8e7b79d6cae20ee3,Rachel,Carter,rachel.carter@gmail.com,3594391200177094,06/30,597
+Vyndra,9349,90894,Wraithwalkers,27,243041a15ad0ed64,21d81b18d525e659,warlock,01a472f4a4ea7899,Ashley,Morales,ashley.morales@gmail.com,6537088647802937,12/26,380
+Vyndra,9349,90894,Wraithwalkers,27,243041a15ad0ed64,21d81b18d525e659,warlock,01a472f4a4ea7899,Ashley,Morales,ashley.morales@gmail.com,3547408221610073,08/26,138
+Kalora,1219,20665,Frostborn Vanguard,4,de9162b6d56678d5,7c3e2694896fda37,cleric,858ffca50b9c314f,Nancy,Morgan,nancy.morgan@gmail.com,347227142781849,05/33,716
+Kalora,1219,20665,Frostborn Vanguard,4,de9162b6d56678d5,7c3e2694896fda37,cleric,858ffca50b9c314f,Nancy,Morgan,nancy.morgan@gmail.com,2714841925856155,09/32,501
+Thaleth,4461,24537,The Onyx Order,13,1a6ebac6dc8bff16,47c6c97e4bf8ee42,"paladin, rogue",858ffca50b9c314f,Nancy,Morgan,nancy.morgan@gmail.com,347227142781849,05/33,716
+Thaleth,4461,24537,The Onyx Order,13,1a6ebac6dc8bff16,47c6c97e4bf8ee42,"paladin, rogue",858ffca50b9c314f,Nancy,Morgan,nancy.morgan@gmail.com,2714841925856155,09/32,501
+Zelara,8448,89774,The Gilded Hawks,25,053c57b859a722bf,026359fd1703738d,necromancer,fba86b4123968ce0,Andrew,Stewart,andrew.stewart@gmail.com,3516679470878564,01/32,375
+Nythera,3460,61046,Crimson Covenant,10,7d49888c23e71940,95495c681c04c891,"mage, cleric",540dcf35e70e05e7,Janet,Francis,janet.francis@gmail.com,4987699510130881,03/26,926
+Arion,4715,89912,Celestial Vanguard,14,a40e304197b0628d,ff564bdf91a6a9aa,"ranger, ranger",540dcf35e70e05e7,Janet,Francis,janet.francis@gmail.com,4987699510130881,03/26,926
+Thyrian,2490,58521,,8,de3dfe1c106f14a6,,"rogue, necromancer",0a26971df399edb7,Jeremy,Washington,jeremy.washington@gmail.com,30306223173530,10/27,049
+Sorvin,6769,27028,The Sunfire Legion,20,bbc662da6b46e491,8c2887822ef0bba3,druid,0a26971df399edb7,Jeremy,Washington,jeremy.washington@gmail.com,30306223173530,10/27,049
+Fynril,2812,39900,Lunar Sentinels,9,3602a28704a2404e,16e39a8ea74f6441,warlock,6b36303df9ee8940,Benjamin,Green,benjamin.green@gmail.com,4731510728967858,04/29,193
+Thryndor,1023,59118,Lunar Sentinels,3,0f714015d4aa1304,16e39a8ea74f6441,"cleric, bard",6b36303df9ee8940,Benjamin,Green,benjamin.green@gmail.com,4731510728967858,04/29,193
+Thalara,9989,36602,Guardians of the Dawn,29,a7a5ed680c8f6c7e,9ef1a491982cbf06,druid,256bfa7a1d57a454,Jerome,Boone,jerome.boone@gmail.com,4075270354747,06/29,470
+Thalara,9989,36602,Guardians of the Dawn,29,a7a5ed680c8f6c7e,9ef1a491982cbf06,druid,256bfa7a1d57a454,Jerome,Boone,jerome.boone@gmail.com,503897290394,06/34,732
+Vesryn,6656,51378,The Shattered Shields,20,4f029d95d7decbe0,5c678cd3ad75f80c,warlock,5b0b0b83a715729f,Stephen,Murphy,stephen.murphy@gmail.com,4399658342499395,09/30,379
+Vesryn,6656,51378,The Shattered Shields,20,4f029d95d7decbe0,5c678cd3ad75f80c,warlock,5b0b0b83a715729f,Stephen,Murphy,stephen.murphy@gmail.com,4135841744191203,02/33,952
+Vesryn,6656,51378,The Shattered Shields,20,4f029d95d7decbe0,5c678cd3ad75f80c,warlock,5b0b0b83a715729f,Stephen,Murphy,stephen.murphy@gmail.com,38225311013279,03/29,972
+Zylar,3205,20829,Frostborn Vanguard,10,822d1acdda19768c,7c3e2694896fda37,ranger,5b0b0b83a715729f,Stephen,Murphy,stephen.murphy@gmail.com,4399658342499395,09/30,379
+Zylar,3205,20829,Frostborn Vanguard,10,822d1acdda19768c,7c3e2694896fda37,ranger,5b0b0b83a715729f,Stephen,Murphy,stephen.murphy@gmail.com,4135841744191203,02/33,952
+Zylar,3205,20829,Frostborn Vanguard,10,822d1acdda19768c,7c3e2694896fda37,ranger,5b0b0b83a715729f,Stephen,Murphy,stephen.murphy@gmail.com,38225311013279,03/29,972
+Kalira,2650,96314,The Gilded Hawks,8,837c632aee8d9063,026359fd1703738d,bard,4b01250ecc5b9b89,Michael,Schneider,michael.schneider@gmail.com,3548888996437852,11/24,310
+Lorath,7537,81316,The Stormbound,22,9cdbb7d1018e416f,ac3939baa329f253,ranger,b3a3a51f8d78ec5d,Ana,Dyer,ana.dyer@gmail.com,30354989564898,07/31,987
+Kallin,9764,24792,Stormriders,28,ec19e7dcf53fda6c,8f988bdc8e02453c,druid,4185a94396a36ade,Lauren,Espinoza,lauren.espinoza@gmail.com,4179218216470415322,04/34,024
+Thalvar,2969,70893,Dragonheart Syndicate,9,d7aa9d896c3d0d20,d96e0324970f052f,ranger,87f9f934a6cafa5c,Tyler,Carter,tyler.carter@gmail.com,4831622947301,01/33,181
+Valrynn,9342,36556,The Silent Hand,27,b62ad8d7e870b903,a6830251bca377af,necromancer,e47276c0f7785a14,Joshua,Jones,joshua.jones@gmail.com,3576937190504721,09/31,425
+Tharwyn,4305,5822,Emerald Enclave,13,1250ee58af058b41,c9dbb8658c62030a,warlock,3996f047845a02c3,Maxwell,Snyder,maxwell.snyder@gmail.com,4339599686332,05/32,001
+Tharwyn,4305,5822,Emerald Enclave,13,1250ee58af058b41,c9dbb8658c62030a,warlock,3996f047845a02c3,Maxwell,Snyder,maxwell.snyder@gmail.com,4311839743795566,06/31,593
+Tharwyn,4305,5822,Emerald Enclave,13,1250ee58af058b41,c9dbb8658c62030a,warlock,3996f047845a02c3,Maxwell,Snyder,maxwell.snyder@gmail.com,4715803761083794,03/34,427
+Lythor,9137,43682,The Shattered Shields,27,9bf9f4cd2effcd16,5c678cd3ad75f80c,bard,87ebd1b02bec69d4,Samuel,Peterson,samuel.peterson@gmail.com,4699774183953,04/29,107
+Vyrn,4187,81659,Celestial Vanguard,12,fdffcbdb7efc24f8,ff564bdf91a6a9aa,cleric,8b2f49f476df0b54,William,Lucero,william.lucero@gmail.com,2253480052180274,01/27,203
+Thalon,6384,62158,Crimson Covenant,19,11354926b71e0b4f,95495c681c04c891,bard,8b2f49f476df0b54,William,Lucero,william.lucero@gmail.com,2253480052180274,01/27,203
+Zerith,7095,67057,,21,7d4544c6aff3b38b,,"warlock, druid",753eeaaf8a196ade,Kristina,Patton,kristina.patton@gmail.com,4281403783840116533,10/31,781
+Elvorin,7839,47260,Emerald Enclave,23,10650db85fcffe2e,c9dbb8658c62030a,"cleric, mage",faa5d7c07236f51a,Gilbert,Wilson,gilbert.wilson@gmail.com,379541259739924,09/33,100
+Elvorin,7839,47260,Emerald Enclave,23,10650db85fcffe2e,c9dbb8658c62030a,"cleric, mage",faa5d7c07236f51a,Gilbert,Wilson,gilbert.wilson@gmail.com,4663749616610749,02/26,848
+Vynara,2145,11888,The Ashen Wolves,7,c38d6daa9f1791ab,d77d8cb078217876,bard,c8d32ec3fb17f9ec,Jennifer,Mcdaniel,jennifer.mcdaniel@gmail.com,30046724577124,10/26,624
+Iseldra,4305,60405,,13,4af805f2ee771b09,,"warrior, cleric",880a4a2a1007ac61,Anthony,Stewart,anthony.stewart@gmail.com,6573738799931687,04/26,3407
+Sariel,9276,16409,,27,a189831f936ec664,,necromancer,ba93156bf2c73937,Dennis,Nguyen,dennis.nguyen@gmail.com,377312815335751,08/27,774
+Sariel,9276,16409,,27,a189831f936ec664,,necromancer,ba93156bf2c73937,Dennis,Nguyen,dennis.nguyen@gmail.com,180043004619336,01/29,873
+Kyros,6896,36458,Guardians of the Dawn,20,97b92561e56ee10b,9ef1a491982cbf06,necromancer,e85477b51404c77b,Cheyenne,Parker,cheyenne.parker@gmail.com,213138410035050,01/29,550
+Vesrin,6640,80560,Wraithwalkers,19,a6fddce40cdd0cd3,21d81b18d525e659,warlock,2021a4b4ca8339a8,Anthony,Miller,anthony.miller@gmail.com,30587966289233,01/31,652
+Vesrin,6640,80560,Wraithwalkers,19,a6fddce40cdd0cd3,21d81b18d525e659,warlock,2021a4b4ca8339a8,Anthony,Miller,anthony.miller@gmail.com,343899131089949,09/32,314
+Kylandra,7196,25348,Frostborn Vanguard,21,8044653db05d9d59,7c3e2694896fda37,"rogue, paladin",9f62cc884f321d84,April,Stanley,april.stanley@gmail.com,372824928182057,07/25,348
+Isilwen,6316,36617,Guardians of the Dawn,19,c5a0fabd55125a4a,9ef1a491982cbf06,cleric,9f62cc884f321d84,April,Stanley,april.stanley@gmail.com,372824928182057,07/25,348
+Marisara,7007,60749,The Shattered Shields,21,af0ee7b7403f43c8,5c678cd3ad75f80c,"mage, ranger",cff1fd62c669965d,Michael,Gonzales,michael.gonzales@gmail.com,349367374376047,05/33,978
+Marisara,7007,60749,The Shattered Shields,21,af0ee7b7403f43c8,5c678cd3ad75f80c,"mage, ranger",cff1fd62c669965d,Michael,Gonzales,michael.gonzales@gmail.com,4653612107278,06/25,337
+Zorvin,2855,89111,The Gilded Hawks,9,2cf9add4a08c4265,026359fd1703738d,"necromancer, warlock",cff1fd62c669965d,Michael,Gonzales,michael.gonzales@gmail.com,349367374376047,05/33,978
+Zorvin,2855,89111,The Gilded Hawks,9,2cf9add4a08c4265,026359fd1703738d,"necromancer, warlock",cff1fd62c669965d,Michael,Gonzales,michael.gonzales@gmail.com,4653612107278,06/25,337
+Zephirin,5556,10649,The Onyx Order,16,4d96c5fdcd46d082,47c6c97e4bf8ee42,druid,573df923de4a58d2,Robert,Davis,robert.davis@gmail.com,2282965066404137,07/32,149
+Zorvyn,7444,44595,The Ebon Circle,22,74c35f92c869f5ac,4f31ff70b1901ac6,mage,573df923de4a58d2,Robert,Davis,robert.davis@gmail.com,2282965066404137,07/32,149
+Lysara,8596,44919,The Verdant Cloaks,25,ac60c0f09d52d4fb,864fbef6ede481aa,"warrior, rogue",44b65b08e2e7f115,Jonathan,Sanchez,jonathan.sanchez@gmail.com,213189923918522,02/29,706
+Korath,5619,73480,Frostborn Vanguard,17,cb787b8df5778c37,7c3e2694896fda37,"mage, ranger",44b65b08e2e7f115,Jonathan,Sanchez,jonathan.sanchez@gmail.com,213189923918522,02/29,706
+Ryndor,7787,50844,The Silver Serpents,23,7655a8900bed94ac,b16b3bc0a1387ee0,"cleric, necromancer",fe0f889038e9046b,Sierra,Duke,sierra.duke@gmail.com,342775679493977,04/27,641
+Valindra,919,1125,The Arcane Brotherhood,3,8da9b7a82c3c5ba7,1827bb8ad3952c28,"bard, cleric",fe0f889038e9046b,Sierra,Duke,sierra.duke@gmail.com,342775679493977,04/27,641
+Thalios,3071,56607,Frostborn Vanguard,9,194a954dca41fa4c,7c3e2694896fda37,paladin,3dc0c795cbb0135d,Kenneth,Gutierrez,kenneth.gutierrez@gmail.com,3568486070230270,01/27,467
+Nymira,5488,85681,Moonshadow Brotherhood,16,1a24103666c545a7,7d5712da1c5571d4,cleric,ab8bfd302215461a,Colleen,Conner,colleen.conner@gmail.com,3574412101252499,01/28,186
+Nymira,5488,85681,Moonshadow Brotherhood,16,1a24103666c545a7,7d5712da1c5571d4,cleric,ab8bfd302215461a,Colleen,Conner,colleen.conner@gmail.com,376030170497435,05/25,134
+Druvor,4269,22543,The Silver Serpents,13,e2c1464067a5117b,b16b3bc0a1387ee0,"warlock, bard",ab8bfd302215461a,Colleen,Conner,colleen.conner@gmail.com,3574412101252499,01/28,186
+Druvor,4269,22543,The Silver Serpents,13,e2c1464067a5117b,b16b3bc0a1387ee0,"warlock, bard",ab8bfd302215461a,Colleen,Conner,colleen.conner@gmail.com,376030170497435,05/25,134
+Zoriel,1445,28711,Lunar Sentinels,5,68053b1c3800bf5f,16e39a8ea74f6441,"ranger, necromancer",4d33e211737f34e0,John,Reid,john.reid@gmail.com,30304240303255,04/25,344
+Elthorin,1204,38436,Stormriders,4,0b368febfaf7f155,8f988bdc8e02453c,"warrior, bard",4d33e211737f34e0,John,Reid,john.reid@gmail.com,30304240303255,04/25,344
+Sylaris,5045,40400,The Verdant Cloaks,15,fde4046cffa3c304,864fbef6ede481aa,"warrior, warrior",7328c94e1d58f364,Kimberly,Jackson,kimberly.jackson@gmail.com,4258703490019213,06/27,464
+Sylaris,5045,40400,The Verdant Cloaks,15,fde4046cffa3c304,864fbef6ede481aa,"warrior, warrior",7328c94e1d58f364,Kimberly,Jackson,kimberly.jackson@gmail.com,6011766711518084,04/31,040
+Nymor,2475,13830,The Sunfire Legion,8,ad2cd8828f4ccfb5,8c2887822ef0bba3,"warlock, mage",adf8b72c7c3a082e,Jacqueline,Williams,jacqueline.williams@gmail.com,6011880038085832,11/27,612
+Nymor,2475,13830,The Sunfire Legion,8,ad2cd8828f4ccfb5,8c2887822ef0bba3,"warlock, mage",adf8b72c7c3a082e,Jacqueline,Williams,jacqueline.williams@gmail.com,38737157984140,06/33,552
+Nymor,2475,13830,The Sunfire Legion,8,ad2cd8828f4ccfb5,8c2887822ef0bba3,"warlock, mage",adf8b72c7c3a082e,Jacqueline,Williams,jacqueline.williams@gmail.com,30470841248221,08/34,029
+Vyris,4441,43672,The Whispering Blades,13,736a0579bab55717,c8204d38a4b37e1b,cleric,b278eec1f54c4eba,Jerry,Munoz,jerry.munoz@gmail.com,6011805953400567,06/34,258
+Torwin,7398,35978,The Night Watchers,22,af8414562438adb6,e65f653cf961bf99,rogue,797916f96c520d80,Phillip,King,phillip.king@gmail.com,180038381492380,12/25,464
+Vylindra,7079,32964,The Verdant Cloaks,21,09d115ef38a60356,864fbef6ede481aa,"necromancer, paladin",ae9cb02044bc51ac,Brittany,Carter,brittany.carter@gmail.com,676170830183,10/31,4852
+Aranth,8645,36227,Order of the Phoenix,25,c0b386f77c38cf2d,4103fe5dbe3b8825,warrior,9313cf81d6e34283,Amy,Booker,amy.booker@gmail.com,4765070673868089,02/27,531
+Saryn,9290,68917,Wraithwalkers,27,0793d56a0b38bd65,21d81b18d525e659,"bard, druid",7df10dee9310371a,Shannon,Murphy,shannon.murphy@gmail.com,6011767153051600,10/33,715
+Kaelen,2547,60690,Celestial Vanguard,8,3f08c56b7c33ba3c,ff564bdf91a6a9aa,paladin,b15c984ffc1eb7e4,Jacob,Cline,jacob.cline@gmail.com,377019526420273,03/29,141
+Sarwyn,7668,44786,Order of the Phoenix,22,37dffb2750b99678,4103fe5dbe3b8825,warlock,311eed7561301656,Michelle,Haas,michelle.haas@gmail.com,6011591590129278,06/29,942
+Eldrin,6370,83635,Celestial Vanguard,19,6bb8d5babc20689c,ff564bdf91a6a9aa,mage,7da4d649097570f0,Joy,Daniels,joy.daniels@gmail.com,3554787674632795,08/34,786
+Sorwyn,7387,33335,The Arcane Brotherhood,22,bc8bc6f0ae4024ad,1827bb8ad3952c28,warlock,21af2a92d409f212,Bradley,Gray,bradley.gray@gmail.com,581570731728,09/25,336
+Sorwyn,7387,33335,The Arcane Brotherhood,22,bc8bc6f0ae4024ad,1827bb8ad3952c28,warlock,21af2a92d409f212,Bradley,Gray,bradley.gray@gmail.com,4020790935599047,05/26,094
+Morath,3670,36232,The Ashen Wolves,11,f1dd64c77c650ab6,d77d8cb078217876,"bard, bard",f33077fc9364e1a7,Anthony,Randall,anthony.randall@gmail.com,5238033714193996,12/27,606
+Soriel,3410,68671,Wraithwalkers,10,98d8f52c0eb40dc9,21d81b18d525e659,cleric,9be19d4512f61069,Meghan,Ellis,meghan.ellis@gmail.com,4958647245602588,06/27,237
+Morin,6928,27592,The Verdant Cloaks,20,a3baa0a1e6eb175a,864fbef6ede481aa,cleric,9be19d4512f61069,Meghan,Ellis,meghan.ellis@gmail.com,4958647245602588,06/27,237
+Valethor,170,34943,,1,e966ee473586de30,,"rogue, warrior",68ac76f6aae5d56a,Robert,Rodriguez,robert.rodriguez@gmail.com,6546971887842359,11/25,676
+Zaloria,1402,82756,The Whispering Blades,5,ecaf552613980f4c,c8204d38a4b37e1b,ranger,a924e206a0577448,Austin,Carey,austin.carey@gmail.com,6011121479336420,06/30,907
+Toriel,9916,20676,Moonshadow Brotherhood,29,409b5b440f72b48e,7d5712da1c5571d4,ranger,e9d4f217fa880b53,Laura,Riley,laura.riley@gmail.com,6587661618215674,12/29,334
+Dragmar,4952,45544,Crimson Covenant,15,049986642ef67e1d,95495c681c04c891,paladin,a0237b3a23f9278b,Nicole,Buckley,nicole.buckley@gmail.com,30337198832073,08/33,114
+Kylorin,3689,41645,The Bloodsworn,11,858a5ce720f5a098,b6dec619300d9739,mage,505c0f09f4b65a66,Kathryn,Randolph,kathryn.randolph@gmail.com,4238933973649385,11/29,576
+Kylorin,3689,41645,The Bloodsworn,11,858a5ce720f5a098,b6dec619300d9739,mage,505c0f09f4b65a66,Kathryn,Randolph,kathryn.randolph@gmail.com,4659729346539493870,04/29,907
+Vylora,7168,38747,Blades of Valoria,21,ed68666e5cecf22f,e9c3b0d506c11b1c,"cleric, warlock",505c0f09f4b65a66,Kathryn,Randolph,kathryn.randolph@gmail.com,4238933973649385,11/29,576
+Vylora,7168,38747,Blades of Valoria,21,ed68666e5cecf22f,e9c3b0d506c11b1c,"cleric, warlock",505c0f09f4b65a66,Kathryn,Randolph,kathryn.randolph@gmail.com,4659729346539493870,04/29,907
+Draegan,131,68357,Dragonheart Syndicate,1,bff2159e8c539cfb,d96e0324970f052f,mage,924cf039ab5a8441,Kenneth,Chavez,kenneth.chavez@gmail.com,376462649786959,07/30,727
+Lyrel,7780,77792,,23,e3d15f04a9126d37,,paladin,45333a8a8e8f0cf7,Lori,Calderon,lori.calderon@gmail.com,30591568799649,05/34,125
+Lyris,1126,76428,Blades of Valoria,4,f2252043b4da3774,e9c3b0d506c11b1c,"paladin, paladin",c31562fb18b1c613,Jeffrey,Reynolds,jeffrey.reynolds@gmail.com,4066513728763,09/26,413
+Zythera,1246,95609,Wraithwalkers,4,9890aed954607f5d,21d81b18d525e659,"warlock, rogue",989b2cc3f2d36124,Anthony,Bartlett,anthony.bartlett@gmail.com,4675851389366,10/33,895
+Vesara,3191,81380,Lunar Sentinels,10,59937c259ae53568,16e39a8ea74f6441,necromancer,450788967f757794,Lisa,Carlson,lisa.carlson@gmail.com,4336680990680,05/27,831
+Valira,7975,93764,The Silver Serpents,23,aaef03d1bc4dd0ad,b16b3bc0a1387ee0,"warlock, rogue",6caf8303d1bc3903,Catherine,Lozano,catherine.lozano@gmail.com,4886842124966,05/31,973
+Draelor,273,57753,,1,21be280e802d1088,,"ranger, cleric",e2692c752d7ed016,Jonathan,Smith,jonathan.smith@gmail.com,4102404064636841,10/24,198
+Selin,8638,96917,Order of the Phoenix,25,d6c993eb383f0046,4103fe5dbe3b8825,"bard, mage",ca5315aa61ec77f0,Johnny,Kelly,johnny.kelly@gmail.com,3527709626807469,07/30,174
