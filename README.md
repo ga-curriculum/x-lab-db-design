@@ -2,7 +2,7 @@
 
 ## INSTRUCTOR NOTES (DELETE THIS)
 When blanking this lesson out for students, take the following actions before uploading:
-1. Delete this sections of the README
+1. Delete this section of the README
 1. Delete the `erd` folder
 1. Delete `dsb.db`
 1. Delete the solutions
